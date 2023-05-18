@@ -1,16 +1,6 @@
 <?php
 
 
-/*
-
-  Quickbooks produciton API
-
-Client ID: ABqM3JVyXLNcqOOWJVxwZkQC2UhreBmpiV4rw12rjxR0X5rDxI
-Client Secrete: dcYlA3fXsNSlvCJgQhJOrB83VabTuLz4cLhL6IBU
-
-Autorizaiton code: AB11684367884YsMXiiTPD4wCgpeL5ujlBn5RerosKUKms6Vds
-Realm ID: 9130356631056256
-*/
 
 
 require_once(__DIR__ . '/vendor/autoload.php');
